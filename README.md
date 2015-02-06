@@ -130,6 +130,7 @@ this.trigger('shortcut-remove', {
 * pagedown: 34
 * home: 36
 * end: 35
+* tab: 9
 
 ## Development
 
